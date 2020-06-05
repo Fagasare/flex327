@@ -1,0 +1,20 @@
+/* ====== MAIN LAYOUT ======= */
+
+
+.side{
+    padding: 10px;
+    background-color: #e5e4d7;
+    border-radius: 5px;
+}
+
+.pic{
+    opacity: 1.0;
+    width: 100%;
+    margin: 10px 0px;
+    border-radius: 5px;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.pic:hover{
+    opacity: 0.4;
+}

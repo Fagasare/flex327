@@ -1,3 +1,21 @@
 p {
   font-family: Lato;
 }
+ul li{
+  list-style: none;
+  display: inline;
+  padding: 10px;
+  margin: 35px;
+  text-align: center;
+  position: relative;
+  top: 30px;
+  
+}
+
+a{
+  color: white;
+  font-weight: bolder;
+}
+h1,h2{
+  color: red;
+}
